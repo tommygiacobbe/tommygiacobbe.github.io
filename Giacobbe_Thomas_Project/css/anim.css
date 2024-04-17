@@ -1,8 +1,0 @@
-.invis {
-    opacity:0;
-    transition: opacity 1s;
-} 
-
-.invis.appear {
-    opacity:1;
-}
